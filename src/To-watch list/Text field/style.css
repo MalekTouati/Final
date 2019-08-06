@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+.textField{
+    width: 50%;
+    height: 100px;
+    font-size: 20px;
+    outline: none;
+    border-radius: 5px;
+    padding: 6px 6px;
+    resize: none;
+    transition: 1s;
+    font-family: 'Poppins', sans-serif;
+}
+
+.button{
+    margin-top: 10px;
+    padding: 8px 8px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 6.5px;
+    outline: none;
+}
+
+/*.cancelButton{
+    margin-left: 33.4%;
+    margin-right: 2%;
+    background-color: #063852;
+    color: white;
+    font-size: 17px;
+    width: max-content;
+}*/
+
+.goalButton{
+    margin-right: 44%;
+    background-color: #f0810f;
+    font-size: 17px
+}
